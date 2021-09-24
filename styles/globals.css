@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 350px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
